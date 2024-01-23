@@ -1,4 +1,4 @@
- ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)About me
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My About me
 ====================================================================================================================================================
 
 Front-End Developer
@@ -6,7 +6,7 @@ Front-End Developer
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [athittaya.rattanakampc@gmail.com](mailto:athittaya.rattanakampc@gmail.com)
-* 🧠  I'm learning Back-End languages
+* 🧠  I'm learning Next.js and Back-End languages
 * ⚡  In my free time, I'm practicing speaking English, reading, watching movies, gardening
 
 ### Skills
@@ -23,6 +23,4 @@ Front-End Developer
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Dna2406"><img src="https://github-readme-stats.vercel.app/api?username=Dna2406&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=0f172a&hide_border=true&show_icons=true" alt="Dna2406's GitHub stats" /></a>
+<a href="https://github.com/Dna2406" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dna2406&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
