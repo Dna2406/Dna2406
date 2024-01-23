@@ -7,7 +7,7 @@ Front-End Developer
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [athittaya.rattanakampc@gmail.com](mailto:athittaya.rattanakampc@gmail.com)
 * 🧠  I'm learning Next.js
-* ⚡  In my free time, I'm practicing speaking English, reading, watching movies, gardening
+* ⚡  In my free time, I'm learning back end languages, practicing speaking English, reading, watching movies and gardening
 
 ### Socials
 
